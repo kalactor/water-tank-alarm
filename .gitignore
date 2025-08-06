@@ -1,0 +1,12 @@
+# Arduino build files
+
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+
+
+# Linux system files
+
+.DS_STORE
